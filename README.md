@@ -5,6 +5,9 @@
 
 
 ## 📦 Available Spells
+### Smartydown
+> Smartydown is a simple, no-fluff tool for downloading large files over unstable connections. It auto-recovers from slowdowns or drops — restarting downloads until they're complete.
+Includes a Linux CLI version and a multi-platform GUI built with Python.
 ## 🧪 How to Cast
 ## 🧙 Philosophy of the Spellcrafter
 ## 📜 License of the Tome
