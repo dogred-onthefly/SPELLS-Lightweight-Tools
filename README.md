@@ -8,3 +8,10 @@
 ## 🧪 How to Cast
 ## 🧙 Philosophy of the Spellcrafter
 ## 📜 License of the Tome
+
+
+```ansi
+     /\
+    /__\      ╔═╗╔═╗╔═╗╔╗╔╔═╗
+   ( oo )     ╠╣ ╠╣ ║╣ ║║║╚═╗
+    |||       ╚  ╚  ╚═╝╝╚╝╚═╝  ~ Dog Red On The Fly
