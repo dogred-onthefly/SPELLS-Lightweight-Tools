@@ -29,6 +29,7 @@ bash smartydown.sh
 
 
 
-## 🧙‍♂️ Dog Red On The Fly  
+## ✨ Author
+### 🧙‍♂️ Dog Red On The Fly  
 > Terminal sorcerer. Creator of the SPELLS 🪄 repo.  
 > Casting code since the first demon screamed at SIGKILL.
